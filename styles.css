@@ -1,0 +1,43 @@
+h2{
+    color:rgb(78, 10, 161);
+    }
+    h1{
+    color: rgba(98, 98, 98, 0.398);
+    font-size: 40px;
+    }
+    header {
+    text-align: center;
+    background: tan;
+    background-size: cover;
+    padding:20px 0px 0px 0px;
+    
+    
+    }
+    a {
+    color: blue;
+    }
+    .special {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    }
+    article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: left;
+    }
+    .borderline {
+    padding: 10px;
+    background: blue;
+    }
+    img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid black;
+    border-radius: 20px;
+    }
+    .hi {
+    color: white;
+    }
+    body {
+        background-color: bisque;
+    }
