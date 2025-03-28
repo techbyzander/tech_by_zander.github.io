@@ -1,13 +1,13 @@
-h2{
-    color:rgb(78, 10, 161);
+    h2{
+    color:rgb(72, 72, 72);
     }
     h1{
-    color: rgba(98, 98, 98, 0.398);
+    color: rgb(72, 72, 72);
     font-size: 40px;
     }
     header {
     text-align: center;
-    background: tan;
+    background:rgb(0, 166, 255);
     background-size: cover;
     padding:20px 0px 0px 0px;
     
@@ -39,5 +39,6 @@ h2{
     color: white;
     }
     body {
-        background-color: bisque;
+        background-color:beige;
     }
+   
